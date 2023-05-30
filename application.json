@@ -25,6 +25,11 @@
       "type": "FIXED"
     }
   },
+  "publishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
   "color": "#FFEFDB",
   "unpublishedAppLayout": {
     "type": "MOBILE"
