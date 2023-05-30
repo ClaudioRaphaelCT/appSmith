@@ -108,7 +108,7 @@
                       ],
                       "shouldTruncate": false,
                       "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-                      "text": "CARD - RAPHA & RHAI",
+                      "text": "RAPHA & RHAI",
                       "key": "w75qjwjl5d",
                       "isDeprecated": false,
                       "rightColumn": 50,
@@ -165,9 +165,6 @@
                       "leftColumn": 0,
                       "dynamicBindingPathList": [
                         {
-                          "key": "menuColor"
-                        },
-                        {
                           "key": "borderRadius"
                         }
                       ],
@@ -175,6 +172,7 @@
                       "key": "sk7kay5kz6",
                       "isDeprecated": false,
                       "rightColumn": 6,
+                      "iconName": "menu",
                       "menuVariant": "PRIMARY",
                       "widgetId": "1pntmvi6dm",
                       "menuItems": {
@@ -226,9 +224,10 @@
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "mobileLeftColumn": 7,
                       "menuItemsSource": "STATIC",
-                      "menuColor": "{{appsmith.theme.colors.primaryColor}}",
+                      "menuColor": "#3f3f46",
                       "originalBottomRow": 18,
-                      "placement": "CENTER"
+                      "iconAlign": "left",
+                      "placement": "BETWEEN"
                     }
                   ],
                   "key": "h3w1k3dt7w",

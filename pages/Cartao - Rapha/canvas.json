@@ -286,9 +286,6 @@
                       "leftColumn": 0,
                       "dynamicBindingPathList": [
                         {
-                          "key": "menuColor"
-                        },
-                        {
                           "key": "borderRadius"
                         }
                       ],
@@ -296,6 +293,7 @@
                       "key": "sk7kay5kz6",
                       "isDeprecated": false,
                       "rightColumn": 6,
+                      "iconName": "menu",
                       "menuVariant": "PRIMARY",
                       "widgetId": "8ilm972snl",
                       "menuItems": {
@@ -347,8 +345,9 @@
                       "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
                       "mobileLeftColumn": 7,
                       "menuItemsSource": "STATIC",
-                      "menuColor": "{{appsmith.theme.colors.primaryColor}}",
+                      "menuColor": "#3f3f46",
                       "originalBottomRow": 18,
+                      "iconAlign": "left",
                       "placement": "CENTER"
                     }
                   ],
