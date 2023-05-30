@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "RulesRapha",
+    "pageId": "Cartao - Rapha",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "sumRapha",
+        "value": "SelectRapha.data.reduce((acumulador, objeto) => acumulador + Number(objeto.Valor), 0)"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Cartao - Rapha_RulesRapha",
+  "deleted": false,
+  "gitSyncId": "64751b27419eb9445f330134_6475ebefcf89e442ca6d0505"
+}

@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "ObterTotal",
+    "pageId": "Cartao - Todos",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "soma",
+        "value": "Select_All.data.reduce((acumulador, objeto) => acumulador + Number(objeto.Valor), 0)"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Cartao - Todos_ObterTotal",
+  "deleted": false,
+  "gitSyncId": "64751b27419eb9445f330134_647537e8b577966223c74c42"
+}

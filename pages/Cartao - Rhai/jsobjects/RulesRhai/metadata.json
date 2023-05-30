@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "RulesRhai",
+    "pageId": "Cartao - Rhai",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "sumRapha",
+        "value": "SelectRhai.data.reduce((acumulador, objeto) => acumulador + Number(objeto.Valor), 0)"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Cartao - Rhai_RulesRhai",
+  "deleted": false,
+  "gitSyncId": "64751b27419eb9445f330134_647613751cdedf41249e01ed"
+}
